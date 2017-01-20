@@ -1,0 +1,83 @@
+
+form {
+	text-align:center;
+}
+
+h1 {
+	text-align: center;
+	
+}
+
+#calendarHeader {
+	background-color: lightgreen;
+	margin-top: 0px;
+	height: 30px;
+	width: 100%;
+	color: white;
+	text-align: center;
+}
+
+#time {
+	background-color: lightgray;
+	height: 460px;
+	border: 1px solid white;
+	width: 94px;
+	float: left;
+	font-weight: bold;
+	
+}
+
+#day {
+	background-color: lightgray;
+	height: 20px;
+	border: 1px solid white;
+	width: 94px;
+	float: left;
+	font-weight: bold;
+}
+
+.timeSetup {
+	background-color: lightgray;
+	height: 460px;
+	border: 1px solid white;
+	width: 201px;
+	float: left;
+	font-weight: bold;
+}
+
+.daySetup {
+	background-color: lightgray;
+	height: 20px;
+	border: 1px solid white;
+	width: 201px;
+	float: left;
+	font-weight: bold;
+	
+}
+.numBoxes {
+	background-color: lightgray;
+	border: 1px solid white;
+	height: 85px;
+	width: 157px;
+	float: left;
+	font-size: 12px;
+	text-align: left;
+	
+}
+
+.dayBoxes {
+	background-color: lightgray;
+	border: 1px solid white;
+	height: 20px;
+	width: 157px;
+	float: left;
+	text-align: center;
+	color: blue;
+}
+#OfficeHoursSignUpForm{
+	height: 100px;
+	text-align: center;
+	margin-top: -25px;
+}
+	
+}
